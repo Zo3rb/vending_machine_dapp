@@ -1,3 +1,5 @@
 client/node_modules
 client/.next
 client/public
+vending_contract/.env
+vending_contract/node_modules
